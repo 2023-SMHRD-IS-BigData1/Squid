@@ -36,6 +36,8 @@ public class Mp3 {
 		Bgm b21 = new Bgm("좃됐다2", ".\\music\\좃됐다2.mp3");
 		Bgm b22 = new Bgm("쪼여오는브금", ".\\music\\쪼여오는브금.mp3");
 		Bgm b23 = new Bgm("무궁화멘트3", ".\\music\\무궁화멘트3.mp3");
+		Bgm b24 = new Bgm("징검다리멘트3", ".\\music\\징검다리멘트3.mp3");
+		Bgm b25 = new Bgm("비지엠3", ".\\music\\비지엠3.mp3");
 		
 		
 
@@ -62,6 +64,8 @@ public class Mp3 {
 		mlist.add(b21);
 		mlist.add(b22);
 		mlist.add(b23);
+		mlist.add(b24);
+		mlist.add(b25);
 	}
 
 	public Bgm fx(int index) {
